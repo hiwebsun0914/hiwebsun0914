@@ -1,0 +1,100 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sun BinHan — Student Developer</title>
+  <desc id="desc">Profile banner for a full-stack, computer vision and AI tool builder</desc>
+  <defs>
+    <linearGradient id="background" x1="40" y1="20" x2="1160" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"/>
+      <stop offset="0.52" stop-color="#102D4A"/>
+      <stop offset="1" stop-color="#123F3A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="88" y1="79" x2="435" y2="289" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.52" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#4ADE80"/>
+    </linearGradient>
+    <linearGradient id="card" x1="756" y1="55" x2="1109" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.055"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#8BC5FF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="13" stdDeviation="17" flood-color="#020A13" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="30" fill="url(#background)"/>
+  <rect width="1200" height="380" rx="30" fill="url(#grid)"/>
+  <circle cx="1137" cy="-23" r="255" fill="#38BDF8" fill-opacity="0.07"/>
+  <circle cx="1158" cy="388" r="178" fill="#4ADE80" fill-opacity="0.08"/>
+  <circle cx="-10" cy="386" r="145" fill="#2563EB" fill-opacity="0.08"/>
+
+  <g transform="translate(80 69)">
+    <rect width="52" height="52" rx="15" fill="url(#accent)"/>
+    <path d="M17 17L8 26L17 35M35 17L44 26L35 35M29.5 11L22.5 41" stroke="#06182A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="150" y="89" fill="#8ED8FF" font-size="16" font-weight="700" letter-spacing="3.2" font-family="Inter, Segoe UI, Arial, sans-serif">HELLO, I BUILD THINGS</text>
+  <text x="80" y="175" fill="white" font-size="60" font-weight="760" letter-spacing="-1.8" font-family="Inter, Segoe UI, Arial, sans-serif">Sun BinHan</text>
+  <rect x="81" y="196" width="389" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="80" y="244" fill="#D4E8F7" font-size="23" font-weight="520" font-family="Inter, Segoe UI, Arial, sans-serif">Student Developer · Product Builder</text>
+  <text x="80" y="281" fill="#91B4CD" font-size="16" font-family="Inter, Segoe UI, Arial, sans-serif">Full-stack systems · Computer vision · Practical AI tools</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="650">
+    <rect x="80" y="311" width="126" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#60A5FA" stroke-opacity="0.3"/>
+    <circle cx="99" cy="328" r="4" fill="#60A5FA"/>
+    <text x="111" y="333" fill="#D8ECFF">SHENZHEN</text>
+    <rect x="216" y="311" width="99" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#22D3EE" stroke-opacity="0.3"/>
+    <circle cx="235" cy="328" r="4" fill="#22D3EE"/>
+    <text x="247" y="333" fill="#D8F8FF">SYSU</text>
+    <rect x="325" y="311" width="152" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.08" stroke="#4ADE80" stroke-opacity="0.3"/>
+    <circle cx="344" cy="328" r="4" fill="#4ADE80"/>
+    <text x="356" y="333" fill="#DFFFE8">BUILD &amp; SHIP</text>
+  </g>
+
+  <path d="M613 44V337" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <circle cx="613" cy="112" r="4" fill="#60A5FA"/>
+  <circle cx="613" cy="190" r="4" fill="#22D3EE"/>
+  <circle cx="613" cy="268" r="4" fill="#4ADE80"/>
+
+  <g filter="url(#shadow)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g>
+      <rect x="682" y="49" width="429" height="80" rx="18" fill="url(#card)" stroke="#8BC5FF" stroke-opacity="0.16"/>
+      <rect x="703" y="69" width="42" height="42" rx="12" fill="#60A5FA" fill-opacity="0.18"/>
+      <path d="M715 82H733M715 89H728M715 96H734" stroke="#85C3FF" stroke-width="3" stroke-linecap="round"/>
+      <text x="763" y="82" fill="#9DCCFF" font-size="12" font-weight="700" letter-spacing="2">FULL-STACK</text>
+      <text x="763" y="107" fill="white" font-size="18" font-weight="620">From interface to infrastructure</text>
+      <path d="M1019 90H1075" stroke="#60A5FA" stroke-width="2" stroke-dasharray="3 6"/>
+      <circle cx="1019" cy="90" r="5" fill="#60A5FA"/>
+      <circle cx="1075" cy="90" r="5" fill="#60A5FA"/>
+    </g>
+
+    <g>
+      <rect x="649" y="150" width="462" height="80" rx="18" fill="url(#card)" stroke="#6EE7F9" stroke-opacity="0.17"/>
+      <rect x="671" y="169" width="42" height="42" rx="12" fill="#22D3EE" fill-opacity="0.17"/>
+      <circle cx="692" cy="190" r="11" stroke="#70E9F6" stroke-width="2.5"/>
+      <circle cx="692" cy="190" r="4" fill="#70E9F6"/>
+      <path d="M676 176L682 181M708 176L702 181M676 204L682 199M708 204L702 199" stroke="#70E9F6" stroke-width="2" stroke-linecap="round"/>
+      <text x="731" y="182" fill="#94F3FF" font-size="12" font-weight="700" letter-spacing="2">COMPUTER VISION</text>
+      <text x="731" y="207" fill="white" font-size="18" font-weight="620">Turning pixels into interaction</text>
+      <rect x="1003" y="174" width="78" height="32" rx="16" fill="#22D3EE" fill-opacity="0.12"/>
+      <text x="1025" y="195" fill="#91EAF5" font-size="12" font-weight="700">CV</text>
+    </g>
+
+    <g>
+      <rect x="682" y="251" width="429" height="80" rx="18" fill="url(#card)" stroke="#86EFAC" stroke-opacity="0.16"/>
+      <rect x="703" y="270" width="42" height="42" rx="12" fill="#4ADE80" fill-opacity="0.16"/>
+      <path d="M716 294L723 278L727 287L734 278" stroke="#8AF0AD" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="716" cy="294" r="2.5" fill="#8AF0AD"/>
+      <circle cx="723" cy="278" r="2.5" fill="#8AF0AD"/>
+      <circle cx="727" cy="287" r="2.5" fill="#8AF0AD"/>
+      <circle cx="734" cy="278" r="2.5" fill="#8AF0AD"/>
+      <text x="763" y="283" fill="#A5F3BD" font-size="12" font-weight="700" letter-spacing="2">PRACTICAL AI</text>
+      <text x="763" y="308" fill="white" font-size="18" font-weight="620">Research, prototype, iterate</text>
+      <path d="M1019 291H1075" stroke="#4ADE80" stroke-width="2" stroke-dasharray="3 6"/>
+      <circle cx="1019" cy="291" r="5" fill="#4ADE80"/>
+      <circle cx="1075" cy="291" r="5" fill="#4ADE80"/>
+    </g>
+  </g>
+</svg>
